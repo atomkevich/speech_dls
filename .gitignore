@@ -1,0 +1,30 @@
+# Dataset files
+sound_classification_dataset.zip
+dataset/
+
+# CSV files
+*.csv
+test.csv
+train.csv
+valid.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+.env
+
+# MacOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
